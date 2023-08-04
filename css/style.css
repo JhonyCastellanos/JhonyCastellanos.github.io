@@ -245,9 +245,8 @@ span {
   margin: 1rem 0 3rem;
 }
 
-.certficates {
-  display: flex;
-  margin-bottom: 50px;
+.certificates {
+  margin-top: 50px;
 }
 
 .portfolio {
